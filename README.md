@@ -1,8 +1,6 @@
-# PHP Encrypt
+# Simple API client example class
 
-[![build status](https://gitlab.cafe/BlackFriday/php-encrypt/badges/master/build.svg)](https://gitlab.cafe/BlackFriday/php-encrypt/commits/master)
-
-Certification authority management script
+This is example of simple API client class. Part of __Code Advent 2016__ calendar.
 
 ## Installation
 
