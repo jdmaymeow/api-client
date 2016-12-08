@@ -1,0 +1,18 @@
+{
+    "name": "jdmaymeow/ap-client",
+    "description": "Simple API client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Charlotta Jung",
+            "email": "jungcharlotta@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Jdmaymeow\\": "src"
+        }
+    },
+    "require": {}
+}
